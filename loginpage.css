@@ -135,6 +135,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.2em;
     font-weight: 600;
+    margin-top: 0em;
 }
 
 .box:hover .loginBx h2 .text-flicker,
