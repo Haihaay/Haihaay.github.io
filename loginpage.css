@@ -121,7 +121,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    transform: translateY(100px);
+    transform: translateY(126px);
     gap: 20px;
     width: 70%;
     transition: 0.5s;
@@ -135,6 +135,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.2em;
     font-weight: 600;
+    align-items: center;
 }
 
 .box:hover .loginBx h2 .text-flicker,
