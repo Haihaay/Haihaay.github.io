@@ -136,6 +136,8 @@ body {
     letter-spacing: 0.2em;
     font-weight: 600;
     align-items: center;
+    justify-content: center;
+    margin-top; 0px;
 }
 
 .box:hover .loginBx h2 .text-flicker,
