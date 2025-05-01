@@ -180,6 +180,7 @@ body {
   text-shadow: 0 0 0.125em var(--shadow),
                0 0 0.45em var(--glow);
   animation: text-flicker 3s linear infinite;
+   margin-top: 20px;
 }
 
 .loginBx h2 i {
