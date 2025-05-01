@@ -121,7 +121,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    transform: translateY(20px);
+    transform: translateY(100px);
     gap: 20px;
     width: 70%;
     transition: 0.5s;
